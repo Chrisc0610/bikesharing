@@ -20,12 +20,15 @@ to visualize some key points of the data. Below are all the different visualizat
 	* Trips by Weekday per Hour - This chart shows the amount of rides on a Hourly and daily basis by customer/subscriber.
 			- Both charts will show the total amount of rides when you hover over a cell
 			- The legend on the side Allows you to Filter out Rider type and Gender
+			- ![Citi_tab_2.PNG](images/Citi_tab_2.PNG)
 	* Checkout Time for Users - Shows a Line plot for the amount of minutes per each ride for all users. 
 	* Checkout time by Gender - Shows a Line plot for the amount of minutes per each ride per Male,Female, and Unknown Genders. 
 	* Gender Breakdown Pie Graph - Shows the percentage of Male,Female and Unknown Gender of all riders.
 		- The legend on the righ of this story will allow you to filter by hours and genders.
+		- ![Citi_tab_3.PNG](images/Citi_tab_3.PNG)
 	* Trips by Gender(weekday per hours)- This chart shows the amount of rides on a hourly basis by day and compares it by Gender.
 		- The chart will show the total amount of rides when you hover over a cell
+		- ![Citi_tab_4.PNG](images/Citi_tab_4.PNG)
 	
 ## Summary
 
