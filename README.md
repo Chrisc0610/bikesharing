@@ -15,6 +15,7 @@ to visualize some key points of the data. Below are all the different visualizat
 	* Top Ending Locations - This shows the locations where most people returns a citi bike at the end of a ride.
 		- Both Starting and Ending locations are visualized by color and size the bigger the circle the more people.
 		- The color can be gauged by the legend on the side the darker the red the less amount of people.
+		- ![Citi_tab_1.PNG](images/Citi_tab_1.PNG)
 	* User Trips by Gender by Weekday - This chart shows the amount of rides on a daily basis by week and customer/subscriber.
 	* Trips by Weekday per Hour - This chart shows the amount of rides on a Hourly and daily basis by customer/subscriber.
 			- Both charts will show the total amount of rides when you hover over a cell
